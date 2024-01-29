@@ -1,7 +1,7 @@
-/* eslint-disable no-template-curly-in-string */
 
 
-/* eslint-disable no-unused-vars */
+
+
 import React from 'react';
 
 // link 
@@ -62,7 +62,7 @@ const Apparts = ({apparts}) => {
     <Link to={'/apparts/${id}'} className='btn btn-secondary btn-sm max-w-[240px] mx-auto'>
       Reservez à ${price}
     </Link>
-  </div>+
+  </div>
   
 };
 
